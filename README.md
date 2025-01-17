@@ -1,7 +1,10 @@
-## 👋 Hi, my name is Rudra Patel!
----
+# 👋 Hi, my name is Rudra Patel!
+
+----
+
 🎓Computer Science Major | Concentration in Artificial Intelligence | Lewis University, Romeoville, Illinois
----
+
+----
 
 
 

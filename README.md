@@ -26,12 +26,11 @@ I am currently exploring **Machine Learning** and look forward to applying my sk
 
 ## 🔧 Skills  
 
-- **Programming Languages**: Python, Java, Javascript (React, Node, Express)
-- **Web Technologies**: HTML, CSS, Django, Node.js and Express
+- **Programming Languages**: Python, Java, Javascript
+- **Web Technologies**: HTML/CSS, React, Node.js, Express, Django
 - **Data Science and Storage**: Pandas, MatPlotLib, NumPy, SQL Server, MYSQL
-- **Technologies**: Git, Azure  
-- **Databases**: MySQL, MongoDB  
-- **Other Skills**: Data Visualization, Problem-Solving  
+- **Technologies**: Git, Azure, AWS, Docker
+- **Databases**: MySQL, MongoDB
 
 ---
 

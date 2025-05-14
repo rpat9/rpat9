@@ -24,13 +24,11 @@ I am currently exploring **Machine Learning** and look forward to applying my sk
 
 ---
 
-## 🔧 Skills  
+## 🔧 Languages and Tools 
 
-- **Programming Languages**: Python, Java, Javascript
-- **Web Technologies**: HTML/CSS, React, Node.js, Express, Django
-- **Data Science and Storage**: Pandas, MatPlotLib, NumPy, SQL Server, MYSQL
-- **Technologies**: Git, Azure, AWS, Docker
-- **Databases**: MySQL, MongoDB
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width: 100%;">
 
 ---
 

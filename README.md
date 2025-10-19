@@ -156,7 +156,5 @@ I'm actively seeking **Software Engineering internships and full-time opportunit
 <div align="center">
   
   **⭐️ From [RudraPatel](https://github.com/yourusername) | Building the future, one commit at a time**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
 </div>

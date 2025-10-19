@@ -7,7 +7,7 @@
   📍 Chicago, IL | 🎓 Lewis University CS '26 | GPA: 3.9/4.0
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrapatel09/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rudrapatel-website.azurewebsites.net/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-link)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrap26176@gmail.com)
   
 </div>
@@ -16,7 +16,8 @@
 
 ## 💼 About Me
 
-I build **full-stack, AI-powered applications** with modern technologies. My focus is on creating scalable, maintainable systems that drive real business impact.
+I build **full-stack, AI-powered applications** with modern technologies. My focus is on creating scalable, maintainable systems that drive real business impact. From doubling e-commerce revenue to cutting application load times by 80%, I combine technical expertise with results-oriented development.
+
 ```javascript
 const rudra = {
     location: "Chicago, IL",
@@ -32,7 +33,7 @@ const rudra = {
 
 ## 🚀 Featured Projects
 
-### 🌌 ExoViz (Temporarily Private)
+### 🌌 ExoViz 
 **Full-Stack NASA Exoplanet Visualization Platform**
 - Processing 5,000+ NASA exoplanet records with AI-driven habitability scoring
 - 3-service microservices architecture (Spring Boot, FastAPI, Redis)
@@ -41,7 +42,7 @@ const rudra = {
 
 `React` `TypeScript` `Java` `Python` `PostgreSQL` `Three.js` `Docker` `Machine Learning`
 
-### 🎯 [QuizMaster](https://github.com/QuizMasterInc/QuizMaster)
+### 🎯 [QuizMaster](https://github.com/yourusername/quizmaster)
 **High-Performance Quiz Management Platform**
 - **83% faster load times** (886ms → 147ms) through architectural refactoring
 - Led 4-person Agile team through 7,000-line codebase optimization
@@ -50,7 +51,7 @@ const rudra = {
 
 `React` `JavaScript` `Node.js` `Tailwind CSS` `GCP` `Cloud Firestore` `Agile`
 
-### 🍳 [MasterChef Claude](https://github.com/rpat9/MasterChef-Claude)
+### 🍳 [MasterChef Claude](https://github.com/yourusername/masterchef-claude)
 **AI-Powered Recipe Generation Platform**
 - Custom recipes delivered in <5s using Claude API
 - 3-layer error handling with real-time feedback
@@ -104,12 +105,10 @@ const rudra = {
 ## 📊 GitHub Stats
 
 <div align="center">
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rpat9&theme=redical&hide_border=true&bg_color=0D1117)
   
-  ![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpat9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpat9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rpat9&theme=radical&hide_border=true&background=0D1117)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpat9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6&exclude_repo=ProbabilityAndStatistics)
 
 </div>
 
@@ -156,8 +155,8 @@ I'm actively seeking **Software Engineering internships and full-time opportunit
 
 <div align="center">
   
-  **⭐️ From [RudraPatel](https://github.com/rpat9) | Building the future, one commit at a time**
+  **⭐️ From [RudraPatel](https://github.com/yourusername) | Building the future, one commit at a time**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=rpat9&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
 </div>

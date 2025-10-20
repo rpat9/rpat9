@@ -42,7 +42,7 @@ const rudra = {
 
 `React` `TypeScript` `Java` `Python` `PostgreSQL` `Three.js` `Docker` `Machine Learning`
 
-### 🎯 [QuizMaster](https://github.com/yourusername/quizmaster)
+### 🎯 [QuizMaster](https://github.com/rpat9/quizmaster)
 **High-Performance Quiz Management Platform**
 - **83% faster load times** (886ms → 147ms) through architectural refactoring
 - Led 4-person Agile team through 7,000-line codebase optimization
@@ -51,7 +51,7 @@ const rudra = {
 
 `React` `JavaScript` `Node.js` `Tailwind CSS` `GCP` `Cloud Firestore` `Agile`
 
-### 🍳 [MasterChef Claude](https://github.com/yourusername/masterchef-claude)
+### 🍳 [MasterChef Claude](https://github.com/rpat9/masterchef-claude)
 **AI-Powered Recipe Generation Platform**
 - Custom recipes delivered in <5s using Claude API
 - 3-layer error handling with real-time feedback
@@ -148,13 +148,12 @@ I'm actively seeking **Software Engineering internships and full-time opportunit
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rudrapatel09/)
 - 📧 [rudrap26176@gmail.com](mailto:rudrap26176@gmail.com)
-- 🌐 [Portfolio](your-portfolio-link)
-- 📱 (224) 607-9378
+- 🌐 [Portfolio](https://rudrapatel-website.azurewebsites.net/)
 
 ---
 
 <div align="center">
   
-  **⭐️ From [RudraPatel](https://github.com/yourusername) | Building the future, one commit at a time**
+  **⭐️ From [RudraPatel](https://github.com/rpat9) | Building the future, one commit at a time**
 
 </div>

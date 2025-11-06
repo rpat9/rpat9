@@ -45,7 +45,7 @@ const rudra = {
 ### 🎯 [QuizMaster](https://github.com/rpat9/quizmaster)
 **High-Performance Quiz Management Platform**
 - **83% faster load times** (886ms → 147ms) through architectural refactoring
-- Led 4-person Agile team through 7,000-line codebase optimization
+- Led 4-person Agile team through 30,000-line codebase optimization
 - Reduced Firebase API calls by 83% with intelligent caching
 - 33% codebase complexity reduction via unified design system
 
@@ -117,10 +117,10 @@ const rudra = {
 ## 💼 Professional Experience
 
 **Freelance Software Engineer** @ Hometown Liquor | *May 2025 - July 2025*
-- 🚀 Doubled monthly revenue to $40,000 with full-stack e-commerce platform (React, TypeScript, FastAPI, PostgreSQL)
-- 📈 Increased customer conversion by 25% through mobile-first UX
-- ⚡ Reduced database load by 30% with Algolia search achieving sub-200ms latency
-- 🔧 Built multi-service backend with comprehensive testing for real-time inventory management
+- 🚀 Increased monthly revenue by 45% to $40,000 by developing and deploying a full-stack e-commerce platform using React, TypeScript, FastAPI, and PostgreSQL for 750+ products
+- 📈 Raised customer conversion rate by 25% by designing a mobile-first UX with search-optimized product discovery built on indexed queries achieving sub-200ms response times
+- ⚡ Achieved 99.9% backend reliability by implementing 35+ RESTful FastAPI endpoints with Supabase PostgreSQL, modular routing, input validation, and automated testing
+- 🔧Reduced database load by 30% by integrating Zustand-based global state management that eliminated redundant API calls and synchronized cart data in real time
 
 ---
 
@@ -134,7 +134,7 @@ const rudra = {
 
 ## 🏆 Key Achievements
 
-- 💰 **Doubled e-commerce revenue** to $40K through full-stack development
+- 💰 **Increased e-commerce revenue** to $40K through full-stack development
 - ⚡ **83% load time reduction** through architectural optimization
 - 🎯 **25% conversion increase** via mobile-first UX design
 - 🔍 **Sub-200ms search latency** across 750+ product catalog

@@ -24,7 +24,7 @@ const rudra = {
     education: "Lewis University - B.S. Computer Science (AI Concentration)",
     graduating: "May 2026",
     interests: ["Full-Stack Development", "AI/ML", "Cloud Architecture", "Performance Optimization"],
-    currentlyWorking: ["ExoViz - NASA Exoplanet Platform", "QuizMaster Performance Optimization"],
+    currentlyWorking: ["ExoViz - NASA Exoplanet Platform"],
     lookingFor: "Software Engineering Internships & Full-time Opportunities"
 };
 ```
@@ -37,7 +37,7 @@ const rudra = {
 **Full-Stack NASA Exoplanet Visualization Platform**
 - Processing 5,000+ NASA exoplanet records with AI-driven habitability scoring
 - 3-service microservices architecture (Spring Boot, FastAPI, Redis)
-- ML pipeline achieving 85%+ accuracy using Scikit-learn
+- ML pipeline achieving 80%+ accuracy using Scikit-learn
 - Three.js 3D rendering engine maintaining 60fps with LOD optimization
 
 `React` `TypeScript` `Java` `Python` `PostgreSQL` `Three.js` `Docker` `Machine Learning`
@@ -119,7 +119,7 @@ const rudra = {
 **Freelance Software Engineer** @ Hometown Liquor | *May 2025 - July 2025*
 - 🚀 Increased monthly revenue by 45% to $40,000 by developing and deploying a full-stack e-commerce platform using React, TypeScript, FastAPI, and PostgreSQL for 750+ products
 - 📈 Raised customer conversion rate by 25% by designing a mobile-first UX with search-optimized product discovery built on indexed queries achieving sub-200ms response times
-- ⚡ Achieved 99.9% backend reliability by implementing 35+ RESTful FastAPI endpoints with Supabase PostgreSQL, modular routing, input validation, and automated testing
+- ⚡ Achieved 99.9% backend reliability by implementing 85+ RESTful FastAPI endpoints with Supabase PostgreSQL, modular routing, input validation, and automated testing
 - 🔧Reduced database load by 30% by integrating Zustand-based global state management that eliminated redundant API calls and synchronized cart data in real time
 
 ---
@@ -128,7 +128,7 @@ const rudra = {
 
 **Lewis University** | B.S. Computer Science, AI Concentration | *Expected May 2026*
 - **GPA:** 3.9/4.0
-- **Relevant Coursework:** Data Structures & Algorithms, Software Engineering, Database Systems, OOP, Artificial Intelligence, Machine Learning, Linear Algebra
+- **Relevant Coursework:** Data Structures & Algorithms, Software Engineering, Database Systems, OOP, Artificial Intelligence, Machine Learning, Linear Algebra, Natural Language Processing
 
 ---
 

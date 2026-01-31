@@ -1,159 +1,170 @@
-# Hi there, I'm Rudra Patel 👋
+# 👋 Hey, I'm Rudra
 
-<div align="center">
+> **Software Engineer building production systems that actually ship** • Currently @ Lewis University (May 2026) • 3.87 GPA • Chicago, IL
+
+I turn messy ideas into clean, scalable code. Whether it's cutting load times by 83%, processing 2.4M events/day, or building e-commerce platforms that drive real revenue — I focus on **impact over résumé fluff**.
+
+<div align="left">
   
-  **Software Engineer | AI Enthusiast | Full-Stack Developer**
-  
-  📍 Chicago, IL | 🎓 Lewis University CS '26 | GPA: 3.9/4.0
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrapatel09/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rudrapatel-website.azurewebsites.net/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrap26176@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrapatel09/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://rudras-website.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rudrap26176@gmail.com)
   
 </div>
 
 ---
 
-## 💼 About Me
+## What I Actually Do
 
-I build **full-stack, AI-powered applications** with modern technologies. My focus is on creating scalable, maintainable systems that drive real business impact. From doubling e-commerce revenue to cutting application load times by 80%, I combine technical expertise with results-oriented development.
-
-```javascript
-const rudra = {
-    location: "Chicago, IL",
-    education: "Lewis University - B.S. Computer Science (AI Concentration)",
-    graduating: "May 2026",
-    interests: ["Full-Stack Development", "AI/ML", "Cloud Architecture", "Performance Optimization"],
-    currentlyWorking: ["ExoViz - NASA Exoplanet Platform"],
-    lookingFor: "Software Engineering Internships & Full-time Opportunities"
+```typescript
+const skills = {
+    backend: ["Python", "Java", "FastAPI", "Spring Boot", "Node.js"],
+    frontend: ["React", "TypeScript", "Tailwind"],
+    databases: ["PostgreSQL", "Redis", "TimescaleDB", "Firebase"],
+    infrastructure: ["Docker", "AWS", "GCP", "Azure", "CI/CD"],
+    ml: ["Scikit-learn", "TensorFlow", "NLP"],
+    
+    currentlyLearning: "System Design & Distributed Systems",
+    openTo: "SWE Internships & Full-time (2026)"
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Recent Work
 
-### 🌌 ExoViz 
-**Full-Stack NASA Exoplanet Visualization Platform**
-- Processing 5,000+ NASA exoplanet records with AI-driven habitability scoring
-- 3-service microservices architecture (Spring Boot, FastAPI, Redis)
-- ML pipeline achieving 80%+ accuracy using Scikit-learn
-- Three.js 3D rendering engine maintaining 60fps with LOD optimization
+### **Hometown Liquor E-Commerce** `May 2025 - Jul 2025`
+Built a full-stack platform that **increased monthly revenue 45% to $40K**
+- **Stack:** React, TypeScript, FastAPI, PostgreSQL, Docker
+- **Impact:** 750+ products, sub-200ms search, 89 REST endpoints
+- Automated POS inventory sync across distributed stores
+- JWT auth, role-based access, guest checkout flow
 
-`React` `TypeScript` `Java` `Python` `PostgreSQL` `Three.js` `Docker` `Machine Learning`
-
-### 🎯 [QuizMaster](https://github.com/rpat9/quizmaster)
-**High-Performance Quiz Management Platform**
-- **83% faster load times** (886ms → 147ms) through architectural refactoring
-- Led 4-person Agile team through 30,000-line codebase optimization
-- Reduced Firebase API calls by 83% with intelligent caching
-- 33% codebase complexity reduction via unified design system
-
-`React` `JavaScript` `Node.js` `Tailwind CSS` `GCP` `Cloud Firestore` `Agile`
-
-### 🍳 [MasterChef Claude](https://github.com/rpat9/masterchef-claude)
-**AI-Powered Recipe Generation Platform**
-- Custom recipes delivered in <5s using Claude API
-- 3-layer error handling with real-time feedback
-- 80% faster deployment via Docker containerization and AWS CI/CD
-
-`React` `Claude API` `Tailwind CSS` `Firebase` `Docker` `AWS`
+### **QuizMaster** `Aug 2025 - Dec 2025`
+Led team of 6 through 30K-line codebase optimization
+- **Stack:** React, Node.js, Firebase, GCP, GitHub Actions
+- **Impact:** 83% faster load times (30s → <5s), 89% smaller bundle
+- Eliminated N+1 queries, migrated deprecated functions
+- Built CI/CD pipeline reducing deployment time 37%
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Side Projects Worth Checking
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+### [Analytics Pipeline](https://github.com/rpat9/Analytics-Pipeline)
+Real-time event processing system simulating production infrastructure
+- **2.4M events/24hrs** @ 28 events/sec
+- Redis Streams + TimescaleDB hypertables
+- **55x faster** dashboard queries (1.8s → 33ms)
+- React dashboard with 5s auto-refresh
 
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+`TypeScript` `Redis` `TimescaleDB` `Docker`
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</td>
+<td width="50%">
 
-### Tools & Concepts
-`REST APIs` `Microservices` `JWT Authentication` `Agile/Scrum` `CI/CD` `Figma` `Database Design & Optimization` `System Architecture`
+### [Social Media Sentiment Classifier](https://github.com/rpat9/sentiment-analysis)
+ML model comparing 3 approaches on 241K posts
+- **78% accuracy** with Logistic Regression
+- GridSearchCV testing 192 combinations
+- Cross-dataset validation proving domain > complexity
+- TF-IDF, Bag-of-Words, RoBERTa comparison
+
+`Python` `Scikit-learn` `NLP` `GridSearchCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [MasterChef Claude](https://github.com/rpat9/MasterChef-Claude)
+AI recipe generator with smart error handling
+- Custom recipes in **<3 seconds**
+- 3-layer error handling system
+- Docker deployment on AWS
+- Real-time streaming responses
+
+`React` `Claude API` `Firebase` `Docker`
+
+</td>
+<td width="50%">
+
+### [Personal Website](https://github.com/rpat9/rudras-website)
+Portfolio showcasing projects & experience
+- Responsive design, dark mode
+- Project filtering & search
+- Deployed on Azure
+- Performance optimized
+
+`TypeScript` `React` `Azure` `Vercel`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rpat9&theme=redical&hide_border=true&bg_color=0D1117)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpat9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6&exclude_repo=ProbabilityAndStatistics)
+![](https://github-readme-stats.vercel.app/api?username=rpat9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rpat9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&exclude_repo=ProbabilityAndStatistics)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rpat9&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## Quick Wins I'm Proud Of
 
-**Freelance Software Engineer** @ Hometown Liquor | *May 2025 - July 2025*
-- 🚀 Increased monthly revenue by 45% to $40,000 by developing and deploying a full-stack e-commerce platform using React, TypeScript, FastAPI, and PostgreSQL for 750+ products
-- 📈 Raised customer conversion rate by 25% by designing a mobile-first UX with search-optimized product discovery built on indexed queries achieving sub-200ms response times
-- ⚡ Achieved 99.9% backend reliability by implementing 85+ RESTful FastAPI endpoints with Supabase PostgreSQL, modular routing, input validation, and automated testing
-- 🔧Reduced database load by 30% by integrating Zustand-based global state management that eliminated redundant API calls and synchronized cart data in real time
-
----
-
-## 🎓 Education & Coursework
-
-**Lewis University** | B.S. Computer Science, AI Concentration | *Expected May 2026*
-- **GPA:** 3.9/4.0
-- **Relevant Coursework:** Data Structures & Algorithms, Software Engineering, Database Systems, OOP, Artificial Intelligence, Machine Learning, Linear Algebra, Natural Language Processing
+| Achievement | Impact |
+|-------------|--------|
+|  E-commerce revenue | **+45%** to $40K/month |
+|  Dashboard load time | **30s → 5s** (83% faster) |
+|  Bundle size | **16.1MB → 1.7MB** (89% reduction) |
+|  Search latency | **Sub-200ms** on 750+ products |
+|  Query performance | **1.8s → 33ms** (55x improvement) |
 
 ---
 
-## 🏆 Key Achievements
+## 🧰 Tech I Actually Use
 
-- 💰 **Increased e-commerce revenue** to $40K through full-stack development
-- ⚡ **83% load time reduction** through architectural optimization
-- 🎯 **25% conversion increase** via mobile-first UX design
-- 🔍 **Sub-200ms search latency** across 750+ product catalog
-- 👥 **Led 4-person Agile team** through major refactoring project
+**Languages:** Python • Java • TypeScript/JavaScript • SQL • HTML/CSS
+
+**Frameworks:** React • Spring Boot • FastAPI • Node.js • Express • Tailwind
+
+**Data:** PostgreSQL • Redis • TimescaleDB • Firebase • MySQL • MongoDB
+
+**Tools:** Docker • Git • GitHub Actions • AWS • GCP • Azure • Figma
+
+**Concepts:** REST APIs • Microservices • Event-driven Architecture • System Design • CI/CD • JWT Auth
 
 ---
 
-## 📫 Let's Connect!
+## 📬 Let's Talk
 
-I'm actively seeking **Software Engineering internships and full-time opportunities** for 2026. I'm passionate about building scalable systems, optimizing performance, and leveraging AI/ML to solve real-world problems.
+Looking for **Software Engineering opportunities** where I can:
+- Build scalable systems that handle real traffic
+- Optimize performance where it actually matters
+- Work with teams that ship fast and iterate faster
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rudrapatel09/)
-- 📧 [rudrap26176@gmail.com](mailto:rudrap26176@gmail.com)
-- 🌐 [Portfolio](https://rudrapatel-website.azurewebsites.net/)
+**Open to:** Internships & Full-time roles starting 2026
+
+Hit me up: **rudrap26176@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/rudrapatel09/)
 
 ---
 
 <div align="center">
   
-  **⭐️ From [RudraPatel](https://github.com/rpat9) | Building the future, one commit at a time**
+*"Code is poetry written in logic"*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rpat9&color=F85D7F&style=flat-square)
 
 </div>

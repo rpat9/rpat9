@@ -111,12 +111,9 @@ Portfolio showcasing projects & experience
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=rpat9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rpat9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&exclude_repo=ProbabilityAndStatistics)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rpat9&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF)
+![Stats](./assets/stats.svg)
+![Top Languages](./assets/top-langs.svg)
 
 </div>
 

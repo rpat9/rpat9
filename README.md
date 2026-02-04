@@ -62,7 +62,7 @@ Real-time event processing system simulating production infrastructure
 - **55x faster** dashboard queries (1.8s → 33ms)
 - React dashboard with 5s auto-refresh
 
-`TypeScript` `Redis` `TimescaleDB` `Docker`
+`TypeScript` `Redis` `TimescaleDB` `Docker` `Node.js`
 
 </td>
 <td width="50%">
@@ -88,19 +88,19 @@ AI recipe generator with smart error handling
 - Docker deployment on AWS
 - Real-time streaming responses
 
-`React` `Claude API` `Firebase` `Docker`
+`React` `Claude API` `Firebase` `Docker` `Tailwind`
 
 </td>
 <td width="50%">
 
 ### [Personal Website](https://github.com/rpat9/rudras-website)
 Portfolio showcasing projects & experience
-- Responsive design, dark mode
-- Project filtering & search
-- Deployed on Azure
+- Responsive design
+- Project decks
+- Deployed on Vercel
 - Performance optimized
 
-`TypeScript` `React` `Azure` `Vercel`
+`TypeScript` `React` `Tailwind` `Vercel`
 
 </td>
 </tr>

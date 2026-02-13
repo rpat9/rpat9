@@ -3,7 +3,7 @@ name: Update README Stats
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Manual trigger
 
 jobs:
   update-stats:
@@ -14,6 +14,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Ensure assets directory exists
+        run: mkdir -p assets
 
       - name: Generate contribution graph
         uses: Platane/snk@v3
@@ -27,14 +30,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&exclude_repo=ProbabilityAndStatistics&count_private=true
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&count_private=true
           path: assets/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/*.svg
-          git commit -m "Update GitHub stats [skip ci]" || exit 0
+          git commit -m "Update GitHub stats [skip ci]" || echo "No changes to commit"
           git push

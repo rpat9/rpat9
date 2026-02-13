@@ -1,167 +1,140 @@
-# 👋 Hey, I'm Rudra
+# 👋 Rudra Patel
 
-> **Software Engineer building production systems that actually ship** • Currently @ Lewis University (May 2026) • 3.87 GPA • Chicago, IL
+**Software Engineer --- Production Systems, Performance, and Scale**
 
-I turn messy ideas into clean, scalable code. Whether it's cutting load times by 83%, processing 2.4M events/day, or building e-commerce platforms that drive real revenue — I focus on **impact over résumé fluff**.
+Chicago, IL • B.S. Computer Science (AI Concentration) @ Lewis University, May 2026 •
+GPA 3.87\
+I build backend-heavy systems that handle real load, reduce latency, and
+ship measurable outcomes.
 
-<div align="left">
-  
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrapatel09/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://rudras-website.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rudrap26176@gmail.com)
-  
-</div>
+------------------------------------------------------------------------
 
----
+## 🔗 Connect
 
-## What I Actually Do
+-   LinkedIn: https://www.linkedin.com/in/rudrapatel09/
+-   Portfolio: https://rudras-website.vercel.app/
+-   Email: rudrap26176@gmail.com
+-   GitHub: https://github.com/rpat9
 
-```typescript
-const skills = {
-    backend: ["Python", "Java", "FastAPI", "Spring Boot", "Node.js"],
-    frontend: ["React", "TypeScript", "Tailwind"],
-    databases: ["PostgreSQL", "Redis", "TimescaleDB", "Firebase"],
-    infrastructure: ["Docker", "AWS", "GCP", "Azure", "CI/CD"],
-    ml: ["Scikit-learn", "TensorFlow", "NLP"],
-    
-    currentlyLearning: "System Design & Distributed Systems",
-    openTo: "SWE Internships & Full-time (2026)"
-};
-```
+------------------------------------------------------------------------
 
----
+## 🧠 Engineering Focus
 
-## 💼 Recent Work
+-   High-performance backend systems
+-   Event-driven architecture & distributed systems
+-   Database optimization & caching strategies
+-   Production-grade API design
+-   ML systems with practical deployment
 
-### **Hometown Liquor E-Commerce** `May 2025 - Jul 2025`
-Built a full-stack platform that **increased monthly revenue 45% to $40K**
-- **Stack:** React, TypeScript, FastAPI, PostgreSQL, Docker
-- **Impact:** 750+ products, sub-200ms search, 89 REST endpoints
-- Automated POS inventory sync across distributed stores
-- JWT auth, role-based access, guest checkout flow
+------------------------------------------------------------------------
 
-### **QuizMaster** `Aug 2025 - Dec 2025`
-Led team of 6 through 30K-line codebase optimization
-- **Stack:** React, Node.js, Firebase, GCP, GitHub Actions
-- **Impact:** 83% faster load times (30s → <5s), 89% smaller bundle
-- Eliminated N+1 queries, migrated deprecated functions
-- Built CI/CD pipeline reducing deployment time 37%
+## 🚀 Selected Impact
 
----
+### E-commerce Platform (Production Deployment)
 
-## 🚀 Side Projects Worth Checking
+-   Increased monthly revenue 45% → $40K
+-   Built 89 REST endpoints with FastAPI + async PostgreSQL
+-   Sub-200ms full-text search across 750+ products
+-   Automated distributed POS inventory sync
 
-<table>
-<tr>
-<td width="50%">
+### Analytics Event Pipeline
 
-### [Analytics Pipeline](https://github.com/rpat9/Analytics-Pipeline)
-Real-time event processing system simulating production infrastructure
-- **2.4M events/24hrs** @ 28 events/sec
-- Redis Streams + TimescaleDB hypertables
-- **55x faster** dashboard queries (1.8s → 33ms)
-- React dashboard with 5s auto-refresh
+-   Processed 2.4M events 24 hrs with zero loss
+-   Redis Streams consumer groups (\<10ms latency)
+-   55× faster dashboard queries (1.8s → 33ms)
+-   TimescaleDB continuous aggregates + caching
 
-`TypeScript` `Redis` `TimescaleDB` `Docker` `Node.js`
+### Large-Scale Web App Optimization
 
-</td>
-<td width="50%">
+-   Reduced load time from 30s → <5s
+-   Cut bundle size 89%
+-   Eliminated N+1 query patterns
+-   Reduced hosting costs 37%
 
-### [Social Media Sentiment Classifier](https://github.com/rpat9/sentiment-analysis)
-ML model comparing 3 approaches on 241K posts
-- **78% accuracy** with Logistic Regression
-- GridSearchCV testing 192 combinations
-- Cross-dataset validation proving domain > complexity
-- TF-IDF, Bag-of-Words, RoBERTa comparison
+------------------------------------------------------------------------
 
-`Python` `Scikit-learn` `NLP` `GridSearchCV`
+## 🛠 Technology Stack
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Languages**\
+Python • Java • TypeScript • JavaScript • SQL • C++
 
-### [MasterChef Claude](https://github.com/rpat9/MasterChef-Claude)
-AI recipe generator with smart error handling
-- Custom recipes in **<3 seconds**
-- 3-layer error handling system
-- Docker deployment on AWS
-- Real-time streaming responses
+**Backend & Systems**\
+FastAPI • Spring Boot • Node.js • Redis Streams • REST APIs
 
-`React` `Claude API` `Firebase` `Docker` `Tailwind`
+**Data Infrastructure**\
+PostgreSQL • TimescaleDB • Redis • Firebase
 
-</td>
-<td width="50%">
+**Cloud & DevOps**\
+Docker • AWS (ECS, RDS, S3, IAM) • GCP • CI/CD
 
-### [Personal Website](https://github.com/rpat9/rudras-website)
-Portfolio showcasing projects & experience
-- Responsive design
-- Project decks
-- Deployed on Vercel
-- Performance optimized
+**Frontend Frameworks**\
+React • Tailwind 
 
-`TypeScript` `React` `Tailwind` `Vercel`
+**ML / Data**\
+Scikit-learn • TensorFlow • NLP
 
-</td>
-</tr>
-</table>
+------------------------------------------------------------------------
 
----
+## 📦 Projects Worth Exploring
 
-## 📈 GitHub Stats
+### Real-Time Analytics Pipeline
+
+Production-style event processing infrastructure
+- 2.4M events processed
+- Multi-level materialized aggregates
+- React monitoring dashboard
+
+### AI Recipe Platform
+
+Full-stack AI system with orchestration layer
+- Local LLM integration
+- Smart caching + retry logic
+- Featured AWS Services (ECS, IAM, S3, CloudWatch, and RDS)
+
+### Sentiment Classification System
+
+Empirical ML comparison study
+- 241K posts analyzed
+- 78% accuracy Logistic Regression
+- Demonstrated domain relevance > model complexity
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Contribution Snake](./assets/github-contribution-grid-snake-dark.svg)
-![Top Languages](./assets/top-langs.svg)
+<img src="https://raw.githubusercontent.com/rpat9/rpat9/main/assets/github-contribution-grid-snake-dark.svg?cache_bust=1" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/rpat9/rpat9/main/assets/top-langs.svg?cache_bust=1" width="60%" />
 
 </div>
 
----
+------------------------------------------------------------------------
 
-## Quick Wins I'm Proud Of
+## 📈 What I Care About
 
-| Achievement | Impact |
-|-------------|--------|
-|  E-commerce revenue | **+45%** to $40K/month |
-|  Dashboard load time | **30s → 5s** (83% faster) |
-|  Bundle size | **16.1MB → 1.7MB** (89% reduction) |
-|  Search latency | **Sub-200ms** on 750+ products |
-|  Query performance | **1.8s → 33ms** (55x improvement) |
+-   Systems that scale predictably
+-   Performance backed by measurement
+-   Clean architecture over clever code
+-   Building things people actually use
 
----
+------------------------------------------------------------------------
 
-## 🧰 Tech I Actually Use
+## 🎯 Opportunities
 
-**Languages:** Python • Java • TypeScript/JavaScript • SQL • HTML/CSS
+Seeking software engineering roles where I can: 
+- Build distributed backend systems
+- Optimize performance at scale
+- Ship production infrastructure
+- Work on technically demanding problems
 
-**Frameworks:** React • Spring Boot • FastAPI • Node.js • Express • Tailwind
+Internships and full-time roles starting 2026.
 
-**Data:** PostgreSQL • Redis • TimescaleDB • Firebase • MySQL • MongoDB
-
-**Tools:** Docker • Git • GitHub Actions • AWS • GCP • Azure • Figma
-
-**Concepts:** REST APIs • Microservices • Event-driven Architecture • System Design • CI/CD • JWT Auth
-
----
-
-## 📬 Let's Talk
-
-Looking for **Software Engineering opportunities** where I can:
-- Build scalable systems that handle real traffic
-- Optimize performance where it actually matters
-- Work with teams that ship fast and iterate faster
-
-**Open to:** Internships & Full-time roles starting 2026
-
-Hit me up: **rudrap26176@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/rudrapatel09/)
-
----
+------------------------------------------------------------------------
 
 <div align="center">
-  
-*"Code is poetry written in logic"*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rpat9&color=F85D7F&style=flat-square)
-
+<i>"Code is poetry written in logic"</i>
 </div>

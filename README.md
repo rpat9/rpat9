@@ -112,7 +112,7 @@ Portfolio showcasing projects & experience
 
 <div align="center">
 
-![Stats](./assets/stats.svg)
+![GitHub Contribution Snake](./assets/github-contribution-grid-snake-dark.svg)
 ![Top Languages](./assets/top-langs.svg)
 
 </div>

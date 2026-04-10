@@ -40,9 +40,9 @@ I build backend-heavy systems that handle real load, reduce latency, and ship me
 
 ### E-commerce Platform (Production Deployment)
 
-- Increased monthly revenue 45% → $40K
+- Increased monthly revenue 45% → $25K
 - Built 90 REST endpoints with FastAPI + async PostgreSQL
-- Sub-200ms full-text search across 750+ products
+- Sub-200ms full-text search across 770+ products
 - Automated distributed POS inventory sync
 
 ### Analytics Event Pipeline

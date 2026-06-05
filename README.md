@@ -59,7 +59,7 @@ I build backend-heavy systems that handle real load, reduce latency, and ship me
 
 ------------------------------------------------------------------------
 
-## 🛠 Technology Stack
+## Technology Stack
 
 **Languages**  
 Python • Java • TypeScript • Go • SQL • C++

@@ -8,7 +8,7 @@ I build backend-heavy systems that handle real load, reduce latency, and ship me
 
 ------------------------------------------------------------------------
 
-## 🔗 Connect
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/rudrapatel09/
 - Portfolio: https://rudras-website.vercel.app/
@@ -17,26 +17,24 @@ I build backend-heavy systems that handle real load, reduce latency, and ship me
 
 ------------------------------------------------------------------------
 
-## 🎓 Education
+## Education
 
 - Incoming **Master of Computer Science** student at the **University of Illinois Urbana-Champaign (Fall 2026)**
 - Specialization: **AI/ML** and **Enterprise Systems**
-- Current: B.S. in Computer Science (AI Concentration) at Lewis University (May 2026)
+- B.S. in Computer Science (AI Concentration) at Lewis University
 
 ------------------------------------------------------------------------
 
-## 🧠 Engineering Focus
+## Engineering Focus
 
 - High-performance backend systems
-- Event-driven architecture & distributed systems
+- Enterprise level architecture & distributed systems
 - Database optimization & caching strategies
-- Production-grade API design
 - ML systems with practical deployment
-- Enterprise-grade software architecture
 
 ------------------------------------------------------------------------
 
-## 🚀 Selected Impact
+## Selected Impact
 
 ### E-commerce Platform (Production Deployment)
 
@@ -64,16 +62,16 @@ I build backend-heavy systems that handle real load, reduce latency, and ship me
 ## 🛠 Technology Stack
 
 **Languages**  
-Python • Java • TypeScript • JavaScript • SQL • C++
+Python • Java • TypeScript • Go • SQL • C++
 
 **Backend & Systems**  
-FastAPI • Spring Boot • Node.js • Redis Streams • REST APIs
+FastAPI • Spring Boot • Node.js • REST APIs • Kafka • Hive • Spark
 
 **Data Infrastructure**  
 PostgreSQL • TimescaleDB • Redis • Firebase
 
 **Cloud & DevOps**  
-Docker • AWS (ECS, RDS, S3, IAM) • GCP • CI/CD
+Docker • AWS (ECS, RDS, S3, IAM) • GCP • CI/CD • Terraform
 
 **Frontend Frameworks**  
 React • Tailwind
@@ -83,7 +81,7 @@ Scikit-learn • TensorFlow • NLP
 
 ------------------------------------------------------------------------
 
-## 📦 Projects Worth Exploring
+## Projects Worth Exploring
 
 ### Real-Time Analytics Pipeline
 
@@ -108,7 +106,7 @@ Empirical ML comparison study
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -122,7 +120,7 @@ Empirical ML comparison study
 
 ------------------------------------------------------------------------
 
-## 📈 What I Care About
+## What I Care About
 
 - Systems that scale predictably
 - Performance backed by measurement
@@ -132,7 +130,7 @@ Empirical ML comparison study
 
 ------------------------------------------------------------------------
 
-## 🎯 Opportunities
+## I'm Looking for Opportunities
 
 Seeking software engineering roles where I can:
 - Build distributed backend systems

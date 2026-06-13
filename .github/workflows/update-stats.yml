@@ -30,7 +30,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&count_private=true&exclude_repo=Hometown-Liquor-Client,Hometown-Liquor-Backend
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=5&count_private=true&exclude_repo=Hometown-Liquor-Client,Hometown-Liquor-Backend
           path: assets/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 

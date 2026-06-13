@@ -39,9 +39,9 @@ I build backend-heavy systems that handle real load, reduce latency, and ship me
 ### E-commerce Platform (Production Deployment)
 
 - Increased monthly revenue 45% → $25K
-- Built 90 REST endpoints with FastAPI + async PostgreSQL
-- Sub-200ms full-text search across 770+ products
-- Automated distributed POS inventory sync
+- Built 90 REST endpoints with Java Spring Boot
+- <1s AI search across 770+ products
+- Automated POS inventory sync
 
 ### Analytics Event Pipeline
 
@@ -65,7 +65,7 @@ I build backend-heavy systems that handle real load, reduce latency, and ship me
 Python • Java • TypeScript • Go • SQL • C++
 
 **Backend & Systems**  
-FastAPI • Spring Boot • Node.js • REST APIs • Kafka • Hive • Spark
+Spring Boot • Node.js • REST APIs • Kafka • Hive • Spark
 
 **Data Infrastructure**  
 PostgreSQL • TimescaleDB • Redis • Firebase

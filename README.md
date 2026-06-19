@@ -18,7 +18,6 @@ I build software that is practical, measurable, and designed to survive real use
 - LinkedIn: https://www.linkedin.com/in/rudrapatel09/
 - Portfolio: https://rudras-website.vercel.app/
 - Email: rudrap26176@gmail.com
-- GitHub: https://github.com/rpat9
 
 ---
 

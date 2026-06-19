@@ -1,12 +1,17 @@
-# 👋 Rudra Patel
+# Rudra Patel
 
-**Software Engineer -- Production Systems, Performance, and Scale**
+**Full-Stack Software Engineer | Backend Systems, Developer Tools, Performance, and Applied AI**
 
-Chicago, IL &nbsp;  • &nbsp;  Incoming MCS @ UIUC (Fall 2026, AI/ML + Enterprise Systems) &nbsp;   • &nbsp;  B.S. Computer Science (AI Concentration) @ Lewis University, May 2026  &nbsp; • &nbsp;  GPA 3.87
+Chicago, IL  
 
-I build backend-heavy systems that handle real load, reduce latency, and ship measurable outcomes.
+Incoming Masters in Computer Science @ UIUC, Fall 2026  
 
-------------------------------------------------------------------------
+B.S. Computer Science, AI Concentration @ Lewis University, May 2026  
+GPA: 3.9
+
+I build software that is practical, measurable, and designed to survive real use, from developer tools and distributed systems to full-stack products and applied AI platforms.
+
+---
 
 ## Connect
 
@@ -15,96 +20,139 @@ I build backend-heavy systems that handle real load, reduce latency, and ship me
 - Email: rudrap26176@gmail.com
 - GitHub: https://github.com/rpat9
 
-------------------------------------------------------------------------
+---
 
-## Education
+## What I Build
 
-- Incoming **Master of Computer Science** student at the **University of Illinois Urbana-Champaign (Fall 2026)**
-- Specialization: **AI/ML** and **Enterprise Systems**
-- B.S. in Computer Science (AI Concentration) at Lewis University
+I like projects where engineering quality actually matters:
 
-------------------------------------------------------------------------
+- Developer tools and workflow automation
+- Full-stack products with real users
+- Distributed systems and event pipelines
+- Search, data, and applied AI systems
+- Performance-focused applications
+- Systems where correctness, reliability, and usability all matter
 
-## Engineering Focus
+I am open to software engineering roles across product engineering, infrastructure, backend, platform, data-intensive applications, and applied AI/ML systems.
 
-- High-performance backend systems
-- Enterprise level architecture & distributed systems
-- Database optimization & caching strategies
-- ML systems with practical deployment
+---
 
-------------------------------------------------------------------------
+## Current Highlight: LocalCI
 
-## Selected Impact
+**LocalCI - Cross-Platform CI Runner**  
+An open-source local CI runner that lets developers reproduce GitHub Actions-style workflows from the terminal.
 
-### E-commerce Platform (Production Deployment)
+Built with **Go, Python, YAML, and GitHub Actions**.
 
-- Increased monthly revenue 45% → $25K
-- Built 90 REST endpoints with Java Spring Boot
-- <1s AI search across 770+ products
-- Automated POS inventory sync
+- Validates YAML workflows before execution
+- Runs dependency-aware jobs with bounded parallelism
+- Streams command output while saving per-job logs
+- Captures artifacts and generates static HTML reports
+- Supports failed-job reruns and flaky test detection
+- Ships release binaries for Windows, macOS, and Linux
 
-### Analytics Event Pipeline
+Measured result: **47.4% faster sample verification runtime** by running independent checks concurrently while preserving dependency order.
 
-- Processed 2.4M events in 24 hours with zero loss
-- Redis Streams consumer groups (<10ms latency)
-- 55× faster dashboard queries (1.8s → 33ms)
-- TimescaleDB continuous aggregates + caching
+Repository: https://github.com/rpat9/CI-Runner
 
-### Large-Scale Web App Optimization
+---
 
-- Reduced load time from 30s → <5s
-- Cut bundle size 89%
-- Eliminated N+1 query patterns
-- Reduced hosting costs 37%
+## Selected Engineering Work
 
-------------------------------------------------------------------------
+### E-commerce Platform
 
-## Technology Stack
+Production e-commerce platform for Hometown Liquor.
 
-**Languages**  
-Python • Java • TypeScript • Go • SQL • C++
+- Increased monthly revenue by **45% to $25K**
+- Built a platform with **150+ users** and **770+ products**
+- Secured **92+ REST endpoints** with JWT auth, RBAC, rate limiting, and audit logging
+- Built hybrid product search with PostgreSQL full-text search and AI-generated embeddings
+- Automated POS inventory sync, reducing manual inventory checks by **90%**
 
-**Backend & Systems**  
-Spring Boot • Node.js • REST APIs • Kafka • Hive • Spark
+### Research Dataset Platform
 
-**Data Infrastructure**  
-PostgreSQL • TimescaleDB • Redis • Firebase
+Dataset management platform for Lewis University research workflows.
 
-**Cloud & DevOps**  
-Docker • AWS (ECS, RDS, S3, IAM) • GCP • CI/CD • Terraform
+- Built dataset upload, documentation, and search tooling using **React and Go**
+- Designed chunked concurrent uploads and constant-memory downloads for files up to **50 GB**
+- Added AI-assisted metadata generation for labels, summaries, and class distributions
+- Improved dataset search accuracy by **40%**
 
-**Frontend Frameworks**  
-React • Tailwind
+### Real-Time Event Processor
 
-**ML / Data**  
-Scikit-learn • TensorFlow • NLP
+Distributed event processing and analytics pipeline.
 
-------------------------------------------------------------------------
+- Processed **2.4M+ events** with Redis Streams consumer groups
+- Reduced dashboard query latency from **1.828s to 33ms**
+- Cut database transactions by **60-70%** with batch processing
+- Built REST APIs with low-latency cached reads over millions of records
+
+---
 
 ## Projects Worth Exploring
 
-### Real-Time Analytics Pipeline
+### LocalCI - Cross-Platform CI Runner
 
-Production-style event processing infrastructure
-- 2.4M events processed
-- Multi-level materialized aggregates
-- React monitoring dashboard
+Developer tooling for running CI-style workflows locally.
+
+- Go CLI
+- YAML workflow validation
+- Dependency scheduling
+- Parallel job execution
+- Logs, artifacts, reports, failed reruns, flaky detection
+- Cross-platform release binaries
 
 ### AI Recipe Platform
 
-Full-stack AI system with orchestration layer
-- Local LLM integration
-- Smart caching + retry logic
-- Featured AWS Services (ECS, IAM, S3, CloudWatch, and RDS)
+Production-style Java/Spring Boot AI application.
 
-### Sentiment Classification System
+- JWT auth and user-scoped access control
+- Fault-tolerant LLM orchestration
+- Rate limiting, retries, circuit breakers
+- 139 backend tests
+- Terraform-defined AWS infrastructure with ECS, RDS, S3, IAM, CloudWatch, and private networking
 
-Empirical ML comparison study
-- 241K posts analyzed
-- 78% accuracy Logistic Regression
-- Demonstrated domain relevance > model complexity
+### Real-Time Event Processor
 
-------------------------------------------------------------------------
+Streaming analytics infrastructure.
+
+- Redis Streams
+- TimescaleDB
+- Batch inserts
+- Materialized aggregates
+- Low-latency dashboard APIs
+
+---
+
+## Technical Stack
+
+**Languages**  
+Go, Java, Python, TypeScript, JavaScript, SQL, C++
+
+**Software Engineering**  
+Full-stack development, REST APIs, CLIs, workflow automation, event pipelines, distributed systems, testing
+
+**Frameworks & Tools**  
+Spring Boot, React, Node.js, Express.js, Vite, Tailwind, Docker, GitHub Actions
+
+**Data & Infrastructure**  
+PostgreSQL, TimescaleDB, Redis, Firebase, Terraform, AWS, GCP
+
+**AI / ML / Data**  
+Scikit-learn, TensorFlow, NLP, embeddings, applied ML evaluation
+
+---
+
+## Engineering Values
+
+- Build software people can actually use
+- Measure performance instead of guessing
+- Keep architecture understandable
+- Treat tests, logs, and debugging tools as part of the product
+- Prefer clean, reliable systems over clever shortcuts
+- Use AI where it solves a real problem
+
+---
 
 ## GitHub Activity
 
@@ -118,31 +166,18 @@ Empirical ML comparison study
 
 </div>
 
-------------------------------------------------------------------------
+---
 
-## What I Care About
+## Open To
 
-- Systems that scale predictably
-- Performance backed by measurement
-- Clean architecture over clever code
-- Building things people actually use
-- AI/ML systems that deliver measurable value in enterprise settings
+Software engineering internships and full-time roles starting in 2026.
 
-------------------------------------------------------------------------
+I am open to roles across:
 
-## I'm Looking for Opportunities
-
-Seeking software engineering roles where I can:
-- Build distributed backend systems
-- Optimize performance at scale
-- Ship production infrastructure
-- Apply AI/ML to enterprise-grade software systems
-- Work on technically demanding problems
-
-Internships and full-time roles starting 2026.
-
-------------------------------------------------------------------------
-
-<div align="center">
-<i>"Code is poetry written in logic"</i>
-</div>
+- Product engineering
+- Full-stack software engineering
+- Infrastructure and platform
+- Developer tools
+- Distributed systems
+- Data-intensive applications
+- Applied AI/ML software

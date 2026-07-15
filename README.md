@@ -4,7 +4,7 @@
 
 Chicago, IL  
 
-Incoming Masters in Computer Science @ UIUC, Fall 2026  
+Admitted Masters in Computer Science @ UIUC, Fall 2026  
 
 B.S. Computer Science, AI Concentration @ Lewis University, May 2026  
 GPA: 3.9

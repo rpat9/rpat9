@@ -1,15 +1,15 @@
 # Rudra Patel
 
-**Full-Stack Software Engineer | Backend Systems, Developer Tools, Performance, and Applied AI**
+**Software Engineer | Full-Stack Systems, Backend Engineering, Developer Tools, and Applied AI**
 
-Chicago, IL  
+Chicago, IL
 
-Admitted Masters in Computer Science @ UIUC, Fall 2026  
+Software Engineer at U.S. Bank
 
 B.S. Computer Science, AI Concentration @ Lewis University, May 2026  
 GPA: 3.9
 
-I build software that is practical, measurable, and designed to survive real use, from developer tools and distributed systems to full-stack products and applied AI platforms.
+I build software that is practical, measurable, and designed to survive real use, from developer tools and distributed systems to full-stack products, data platforms, and applied AI systems.
 
 ---
 
@@ -32,7 +32,7 @@ I like projects where engineering quality actually matters:
 - Performance-focused applications
 - Systems where correctness, reliability, and usability all matter
 
-I am open to software engineering roles across product engineering, infrastructure, backend, platform, data-intensive applications, and applied AI/ML systems.
+I am focused on growing as a software engineer across enterprise systems, backend engineering, data-intensive applications, developer tools, full-stack product engineering, and applied AI.
 
 ---
 
@@ -167,16 +167,8 @@ Scikit-learn, TensorFlow, NLP, embeddings, applied ML evaluation
 
 ---
 
-## Open To
+## Current Focus & Networking
 
-Software engineering internships and full-time roles starting in 2026.
+I am focused on growing as a software engineer in enterprise full-stack systems, especially where reliability, data, AI, and real business workflows meet. My current interests include backend systems, financial technology, developer tools, data-intensive applications, and practical applied AI.
 
-I am open to roles across:
-
-- Product engineering
-- Full-stack software engineering
-- Infrastructure and platform
-- Developer tools
-- Distributed systems
-- Data-intensive applications
-- Applied AI/ML software
+I am also focused on building a strong professional network and always happy to connect with engineering managers, recruiters, fellow engineers, and collaborators.
